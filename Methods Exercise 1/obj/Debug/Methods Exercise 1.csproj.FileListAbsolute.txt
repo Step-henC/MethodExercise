@@ -1,0 +1,8 @@
+C:\Users\steve\source\repos\Methods Exercise 1\Methods Exercise 1\obj\Debug\Methods Exercise 1.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Methods Exercise 1\Methods Exercise 1\obj\Debug\Methods Exercise 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\source\repos\Methods Exercise 1\Methods Exercise 1\obj\Debug\Methods Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Methods Exercise 1\Methods Exercise 1\bin\Debug\Methods Exercise 1.exe.config
+C:\Users\steve\source\repos\Methods Exercise 1\Methods Exercise 1\bin\Debug\Methods Exercise 1.exe
+C:\Users\steve\source\repos\Methods Exercise 1\Methods Exercise 1\bin\Debug\Methods Exercise 1.pdb
+C:\Users\steve\source\repos\Methods Exercise 1\Methods Exercise 1\obj\Debug\Methods Exercise 1.exe
+C:\Users\steve\source\repos\Methods Exercise 1\Methods Exercise 1\obj\Debug\Methods Exercise 1.pdb
